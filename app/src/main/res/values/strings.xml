@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Light</string>
+    <string name="HuePlaceholder">Hue: 0</string>
+    <string name="HueWithValue">Hue: %1d</string>
+    <string name="set_btn_text">Set Colour</string>
+    <string name="ValuePlaceholder">Value: 20</string>
+    <string name="ValueWithValue">Value: %1d</string>
+    <string name="WhiteValuePlaceholder">White Value: 0</string>
+    <string name="WhiteValueWithValue">White Value: %1d</string>
+</resources>
